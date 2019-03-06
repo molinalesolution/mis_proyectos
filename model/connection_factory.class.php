@@ -1,12 +1,5 @@
 <?php
 
-/**********************************************************/
-//   APLICACION: ENSAMBLE MODULO DE REPORTES			  //
-//   NOTA: ARCHIVO DE CONEXION A BASE DE DATOS MYSSQL.    //
-//   ELABORADO POR : L.A                       			  //
-//   FECHA :	29-09-2008      				   		  //
-/**********************************************************/
-
 class ConnectionFactory {
 	
 		function getConnection(){
